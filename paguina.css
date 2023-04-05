@@ -1,0 +1,15 @@
+
+main > div,section {
+    border: solid 1px gray;
+    display: inline-block; 
+    width: 20%;
+    height: 400px;
+    float: right;
+    margin: 130px;
+}
+input{
+    height: 18px;
+    border: solid 1px rgb(30, 0, 128);
+    
+}
+
